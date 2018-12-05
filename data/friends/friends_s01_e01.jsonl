@@ -1,0 +1,590 @@
+{"second": 0.0, "type": "object", "id": "person_josep francis", "coordinates": ["252", "338", "332", "481"]}
+{"second": 0.0, "type": "object", "id": "person_phoebe buffay", "coordinates": ["688", "376", "263", "372"]}
+{"second": 0.0, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1117", "423", "276", "365"]}
+{"second": 0.0, "type": "object", "id": "person_monica e. geller", "coordinates": ["1376", "401", "225", "379"]}
+{"second": 0.0, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1165", "144", "121", "332"]}
+{"second": 0.03333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["233", "341", "332", "481"]}
+{"second": 0.03333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["678", "384", "263", "372"]}
+{"second": 0.03333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1117", "426", "276", "365"]}
+{"second": 0.03333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1400", "418", "225", "379"]}
+{"second": 0.03333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1157", "147", "121", "332"]}
+{"second": 0.06666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["233", "341", "332", "481"]}
+{"second": 0.06666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["677", "389", "263", "372"]}
+{"second": 0.06666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1119", "428", "276", "365"]}
+{"second": 0.06666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1403", "421", "225", "379"]}
+{"second": 0.06666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1154", "148", "121", "332"]}
+{"second": 0.1, "type": "object", "id": "person_josep francis", "coordinates": ["232", "343", "332", "481"]}
+{"second": 0.1, "type": "object", "id": "person_phoebe buffay", "coordinates": ["677", "388", "263", "372"]}
+{"second": 0.1, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1121", "427", "276", "365"]}
+{"second": 0.1, "type": "object", "id": "person_monica e. geller", "coordinates": ["1403", "420", "225", "379"]}
+{"second": 0.1, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1149", "147", "121", "344"]}
+{"second": 0.13333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["232", "343", "332", "481"]}
+{"second": 0.13333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["676", "388", "263", "372"]}
+{"second": 0.13333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1124", "428", "276", "365"]}
+{"second": 0.13333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1401", "419", "225", "379"]}
+{"second": 0.13333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1145", "145", "121", "344"]}
+{"second": 0.16666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["232", "343", "332", "481"]}
+{"second": 0.16666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["677", "389", "263", "372"]}
+{"second": 0.16666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1122", "429", "276", "365"]}
+{"second": 0.16666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1403", "431", "225", "379"]}
+{"second": 0.16666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1144", "145", "121", "344"]}
+{"second": 0.2, "type": "object", "id": "person_josep francis", "coordinates": ["233", "345", "332", "481"]}
+{"second": 0.2, "type": "object", "id": "person_phoebe buffay", "coordinates": ["676", "389", "263", "372"]}
+{"second": 0.2, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1123", "428", "276", "365"]}
+{"second": 0.2, "type": "object", "id": "person_monica e. geller", "coordinates": ["1402", "432", "225", "379"]}
+{"second": 0.2, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1142", "142", "121", "344"]}
+{"second": 0.23333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["233", "347", "332", "481"]}
+{"second": 0.23333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["677", "389", "263", "372"]}
+{"second": 0.23333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1124", "431", "276", "365"]}
+{"second": 0.23333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1403", "435", "225", "379"]}
+{"second": 0.23333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1128", "144", "133", "348"]}
+{"second": 0.26666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["233", "346", "332", "481"]}
+{"second": 0.26666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["676", "389", "263", "372"]}
+{"second": 0.26666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1125", "430", "276", "365"]}
+{"second": 0.26666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1405", "436", "225", "379"]}
+{"second": 0.26666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1131", "145", "133", "348"]}
+{"second": 0.3, "type": "object", "id": "person_josep francis", "coordinates": ["234", "348", "332", "481"]}
+{"second": 0.3, "type": "object", "id": "person_phoebe buffay", "coordinates": ["676", "391", "263", "372"]}
+{"second": 0.3, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1125", "432", "276", "365"]}
+{"second": 0.3, "type": "object", "id": "person_monica e. geller", "coordinates": ["1404", "438", "225", "379"]}
+{"second": 0.3, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1129", "146", "133", "348"]}
+{"second": 0.3333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["232", "348", "332", "481"]}
+{"second": 0.3333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["676", "392", "263", "372"]}
+{"second": 0.3333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1125", "432", "276", "365"]}
+{"second": 0.3333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1405", "439", "225", "379"]}
+{"second": 0.3333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1100", "148", "161", "356"]}
+{"second": 0.36666666666666664, "type": "object", "id": "person_josep francis", "coordinates": ["233", "347", "332", "481"]}
+{"second": 0.36666666666666664, "type": "object", "id": "person_phoebe buffay", "coordinates": ["677", "391", "263", "372"]}
+{"second": 0.36666666666666664, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1128", "433", "276", "365"]}
+{"second": 0.36666666666666664, "type": "object", "id": "person_monica e. geller", "coordinates": ["1407", "438", "225", "379"]}
+{"second": 0.36666666666666664, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1106", "162", "161", "356"]}
+{"second": 0.4, "type": "object", "id": "person_josep francis", "coordinates": ["234", "347", "332", "481"]}
+{"second": 0.4, "type": "object", "id": "person_phoebe buffay", "coordinates": ["677", "390", "263", "372"]}
+{"second": 0.4, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1125", "435", "276", "365"]}
+{"second": 0.4, "type": "object", "id": "person_monica e. geller", "coordinates": ["1408", "440", "225", "379"]}
+{"second": 0.4, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1104", "164", "161", "356"]}
+{"second": 0.43333333333333335, "type": "object", "id": "person_josep francis", "coordinates": ["234", "349", "332", "481"]}
+{"second": 0.43333333333333335, "type": "object", "id": "person_phoebe buffay", "coordinates": ["676", "389", "263", "372"]}
+{"second": 0.43333333333333335, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1124", "432", "276", "365"]}
+{"second": 0.43333333333333335, "type": "object", "id": "person_monica e. geller", "coordinates": ["1410", "445", "225", "379"]}
+{"second": 0.43333333333333335, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1100", "166", "161", "356"]}
+{"second": 0.4666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["232", "349", "332", "481"]}
+{"second": 0.4666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["676", "390", "263", "372"]}
+{"second": 0.4666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1121", "432", "276", "365"]}
+{"second": 0.4666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1410", "449", "225", "379"]}
+{"second": 0.4666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1094", "156", "161", "356"]}
+{"second": 0.5, "type": "object", "id": "person_josep francis", "coordinates": ["233", "350", "332", "481"]}
+{"second": 0.5, "type": "object", "id": "person_phoebe buffay", "coordinates": ["677", "391", "263", "372"]}
+{"second": 0.5, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1119", "431", "276", "365"]}
+{"second": 0.5, "type": "object", "id": "person_monica e. geller", "coordinates": ["1413", "457", "225", "379"]}
+{"second": 0.5, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1086", "153", "161", "356"]}
+{"second": 0.5333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["231", "350", "332", "481"]}
+{"second": 0.5333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["678", "392", "263", "372"]}
+{"second": 0.5333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1116", "434", "276", "365"]}
+{"second": 0.5333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1412", "460", "225", "379"]}
+{"second": 0.5333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1075", "147", "169", "374"]}
+{"second": 0.5666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["232", "350", "332", "481"]}
+{"second": 0.5666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["678", "392", "263", "372"]}
+{"second": 0.5666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1116", "435", "276", "365"]}
+{"second": 0.5666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1413", "461", "225", "379"]}
+{"second": 0.5666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1072", "148", "161", "366"]}
+{"second": 0.6, "type": "object", "id": "person_josep francis", "coordinates": ["233", "350", "332", "481"]}
+{"second": 0.6, "type": "object", "id": "person_phoebe buffay", "coordinates": ["679", "393", "263", "372"]}
+{"second": 0.6, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1117", "433", "276", "365"]}
+{"second": 0.6, "type": "object", "id": "person_monica e. geller", "coordinates": ["1412", "459", "225", "379"]}
+{"second": 0.6, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1078", "132", "161", "396"]}
+{"second": 0.6333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["232", "350", "332", "481"]}
+{"second": 0.6333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["680", "394", "263", "372"]}
+{"second": 0.6333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1119", "435", "276", "365"]}
+{"second": 0.6333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1413", "460", "225", "379"]}
+{"second": 0.6333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1078", "139", "161", "396"]}
+{"second": 0.6666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["232", "351", "332", "481"]}
+{"second": 0.6666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["681", "394", "263", "372"]}
+{"second": 0.6666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1119", "435", "276", "365"]}
+{"second": 0.6666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1412", "459", "225", "379"]}
+{"second": 0.6666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1077", "139", "161", "396"]}
+{"second": 0.7, "type": "object", "id": "person_josep francis", "coordinates": ["231", "352", "332", "481"]}
+{"second": 0.7, "type": "object", "id": "person_phoebe buffay", "coordinates": ["682", "394", "263", "372"]}
+{"second": 0.7, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1124", "432", "276", "365"]}
+{"second": 0.7, "type": "object", "id": "person_monica e. geller", "coordinates": ["1412", "461", "225", "379"]}
+{"second": 0.7, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1074", "135", "161", "396"]}
+{"second": 0.7333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["231", "352", "332", "481"]}
+{"second": 0.7333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["683", "394", "263", "372"]}
+{"second": 0.7333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1124", "433", "276", "365"]}
+{"second": 0.7333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1414", "461", "225", "379"]}
+{"second": 0.7333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1072", "137", "161", "396"]}
+{"second": 0.7666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["232", "352", "332", "481"]}
+{"second": 0.7666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["685", "395", "263", "372"]}
+{"second": 0.7666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1124", "432", "276", "365"]}
+{"second": 0.7666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1414", "459", "225", "379"]}
+{"second": 0.7666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1069", "142", "161", "396"]}
+{"second": 0.8, "type": "object", "id": "person_josep francis", "coordinates": ["232", "352", "332", "481"]}
+{"second": 0.8, "type": "object", "id": "person_phoebe buffay", "coordinates": ["684", "396", "263", "372"]}
+{"second": 0.8, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1125", "435", "276", "365"]}
+{"second": 0.8, "type": "object", "id": "person_monica e. geller", "coordinates": ["1414", "459", "225", "379"]}
+{"second": 0.8, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1069", "139", "161", "396"]}
+{"second": 0.8333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["224", "355", "332", "481"]}
+{"second": 0.8333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["681", "397", "263", "372"]}
+{"second": 0.8333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1131", "444", "276", "365"]}
+{"second": 0.8333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1415", "473", "225", "379"]}
+{"second": 0.8333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1051", "141", "164", "396"]}
+{"second": 0.8666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["223", "355", "332", "481"]}
+{"second": 0.8666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["682", "399", "263", "372"]}
+{"second": 0.8666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1134", "447", "276", "365"]}
+{"second": 0.8666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1415", "472", "225", "379"]}
+{"second": 0.8666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1057", "141", "164", "396"]}
+{"second": 0.9, "type": "object", "id": "person_josep francis", "coordinates": ["222", "354", "332", "481"]}
+{"second": 0.9, "type": "object", "id": "person_phoebe buffay", "coordinates": ["683", "400", "263", "372"]}
+{"second": 0.9, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1134", "448", "276", "365"]}
+{"second": 0.9, "type": "object", "id": "person_monica e. geller", "coordinates": ["1417", "472", "225", "379"]}
+{"second": 0.9, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1041", "140", "175", "396"]}
+{"second": 0.9333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["221", "352", "332", "481"]}
+{"second": 0.9333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["683", "399", "263", "372"]}
+{"second": 0.9333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1137", "446", "276", "365"]}
+{"second": 0.9333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1419", "470", "225", "379"]}
+{"second": 0.9333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1043", "141", "175", "396"]}
+{"second": 0.9666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["221", "348", "332", "481"]}
+{"second": 0.9666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["683", "398", "263", "372"]}
+{"second": 0.9666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1138", "446", "276", "365"]}
+{"second": 0.9666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1420", "470", "225", "379"]}
+{"second": 0.9666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1043", "144", "175", "396"]}
+{"second": 1.0, "type": "object", "id": "person_josep francis", "coordinates": ["221", "348", "332", "481"]}
+{"second": 1.0, "type": "object", "id": "person_phoebe buffay", "coordinates": ["682", "392", "263", "372"]}
+{"second": 1.0, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1132", "442", "276", "365"]}
+{"second": 1.0, "type": "object", "id": "person_monica e. geller", "coordinates": ["1423", "470", "225", "379"]}
+{"second": 1.0, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1044", "142", "175", "396"]}
+{"second": 1.0333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["222", "347", "332", "481"]}
+{"second": 1.0333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["679", "387", "263", "372"]}
+{"second": 1.0333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1137", "441", "276", "365"]}
+{"second": 1.0333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1424", "473", "225", "379"]}
+{"second": 1.0333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1048", "143", "175", "396"]}
+{"second": 1.0666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["222", "348", "332", "481"]}
+{"second": 1.0666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["679", "382", "263", "372"]}
+{"second": 1.0666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1135", "439", "276", "365"]}
+{"second": 1.0666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1425", "471", "225", "379"]}
+{"second": 1.0666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1048", "144", "156", "374"]}
+{"second": 1.1, "type": "object", "id": "person_josep francis", "coordinates": ["224", "343", "332", "481"]}
+{"second": 1.1, "type": "object", "id": "person_phoebe buffay", "coordinates": ["672", "373", "263", "372"]}
+{"second": 1.1, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1130", "431", "276", "365"]}
+{"second": 1.1, "type": "object", "id": "person_monica e. geller", "coordinates": ["1425", "476", "225", "379"]}
+{"second": 1.1, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1048", "157", "156", "374"]}
+{"second": 1.1333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["226", "346", "332", "481"]}
+{"second": 1.1333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["667", "362", "263", "372"]}
+{"second": 1.1333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1118", "421", "276", "365"]}
+{"second": 1.1333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1426", "476", "225", "379"]}
+{"second": 1.1333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1054", "142", "163", "393"]}
+{"second": 1.1666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["226", "344", "332", "481"]}
+{"second": 1.1666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["664", "359", "263", "372"]}
+{"second": 1.1666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1113", "418", "276", "365"]}
+{"second": 1.1666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1427", "470", "225", "379"]}
+{"second": 1.1666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1060", "140", "157", "380"]}
+{"second": 1.2, "type": "object", "id": "person_josep francis", "coordinates": ["229", "340", "332", "481"]}
+{"second": 1.2, "type": "object", "id": "person_phoebe buffay", "coordinates": ["659", "355", "263", "372"]}
+{"second": 1.2, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1112", "418", "276", "365"]}
+{"second": 1.2, "type": "object", "id": "person_monica e. geller", "coordinates": ["1428", "471", "225", "379"]}
+{"second": 1.2, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1061", "142", "157", "380"]}
+{"second": 1.2333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["230", "337", "332", "481"]}
+{"second": 1.2333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["656", "352", "263", "372"]}
+{"second": 1.2333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1114", "420", "276", "365"]}
+{"second": 1.2333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1427", "469", "225", "379"]}
+{"second": 1.2333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1062", "147", "157", "380"]}
+{"second": 1.2666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["242", "348", "316", "458"]}
+{"second": 1.2666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["662", "359", "250", "354"]}
+{"second": 1.2666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1115", "428", "276", "365"]}
+{"second": 1.2666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1428", "469", "225", "379"]}
+{"second": 1.2666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1065", "147", "157", "380"]}
+{"second": 1.3, "type": "object", "id": "person_josep francis", "coordinates": ["245", "348", "316", "458"]}
+{"second": 1.3, "type": "object", "id": "person_phoebe buffay", "coordinates": ["660", "357", "250", "354"]}
+{"second": 1.3, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1123", "431", "276", "365"]}
+{"second": 1.3, "type": "object", "id": "person_monica e. geller", "coordinates": ["1428", "469", "225", "379"]}
+{"second": 1.3, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1066", "148", "157", "380"]}
+{"second": 1.3333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["252", "344", "316", "458"]}
+{"second": 1.3333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["659", "357", "250", "354"]}
+{"second": 1.3333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1126", "434", "276", "365"]}
+{"second": 1.3333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1429", "470", "225", "379"]}
+{"second": 1.3333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1067", "146", "157", "380"]}
+{"second": 1.3666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["256", "344", "316", "458"]}
+{"second": 1.3666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["658", "357", "250", "354"]}
+{"second": 1.3666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1130", "434", "276", "365"]}
+{"second": 1.3666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1431", "470", "225", "379"]}
+{"second": 1.3666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1077", "138", "157", "380"]}
+{"second": 1.4, "type": "object", "id": "person_josep francis", "coordinates": ["260", "343", "316", "458"]}
+{"second": 1.4, "type": "object", "id": "person_phoebe buffay", "coordinates": ["657", "358", "250", "354"]}
+{"second": 1.4, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1139", "434", "276", "365"]}
+{"second": 1.4, "type": "object", "id": "person_monica e. geller", "coordinates": ["1434", "470", "225", "379"]}
+{"second": 1.4, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1077", "161", "157", "380"]}
+{"second": 1.4333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["259", "348", "316", "458"]}
+{"second": 1.4333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["657", "358", "250", "354"]}
+{"second": 1.4333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1148", "437", "276", "365"]}
+{"second": 1.4333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1438", "472", "225", "379"]}
+{"second": 1.4333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1076", "148", "157", "394"]}
+{"second": 1.4666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["257", "349", "316", "458"]}
+{"second": 1.4666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["657", "360", "250", "354"]}
+{"second": 1.4666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1157", "438", "276", "365"]}
+{"second": 1.4666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1440", "467", "225", "379"]}
+{"second": 1.4666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1075", "147", "157", "376"]}
+{"second": 1.5, "type": "object", "id": "person_josep francis", "coordinates": ["251", "355", "316", "458"]}
+{"second": 1.5, "type": "object", "id": "person_phoebe buffay", "coordinates": ["657", "362", "250", "354"]}
+{"second": 1.5, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1163", "439", "276", "365"]}
+{"second": 1.5, "type": "object", "id": "person_monica e. geller", "coordinates": ["1444", "467", "225", "379"]}
+{"second": 1.5, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1073", "162", "157", "376"]}
+{"second": 1.5333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["250", "310", "347", "503"]}
+{"second": 1.5333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["706", "397", "232", "336"]}
+{"second": 1.5333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1167", "445", "276", "365"]}
+{"second": 1.5333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1449", "428", "194", "419"]}
+{"second": 1.5333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1066", "174", "157", "376"]}
+{"second": 1.5666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["255", "305", "351", "523"]}
+{"second": 1.5666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["703", "398", "232", "336"]}
+{"second": 1.5666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1170", "447", "276", "365"]}
+{"second": 1.5666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1458", "428", "194", "419"]}
+{"second": 1.5666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1059", "182", "165", "349"]}
+{"second": 1.6, "type": "object", "id": "person_josep francis", "coordinates": ["259", "314", "351", "523"]}
+{"second": 1.6, "type": "object", "id": "person_phoebe buffay", "coordinates": ["703", "402", "232", "336"]}
+{"second": 1.6, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1167", "441", "290", "383"]}
+{"second": 1.6, "type": "object", "id": "person_monica e. geller", "coordinates": ["1460", "425", "194", "419"]}
+{"second": 1.6, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1054", "185", "165", "349"]}
+{"second": 1.6333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["264", "315", "351", "523"]}
+{"second": 1.6333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["704", "404", "232", "336"]}
+{"second": 1.6333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1166", "441", "290", "383"]}
+{"second": 1.6333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1465", "426", "194", "419"]}
+{"second": 1.6333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1055", "181", "165", "349"]}
+{"second": 1.6666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["268", "314", "351", "523"]}
+{"second": 1.6666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["705", "404", "232", "336"]}
+{"second": 1.6666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1169", "442", "290", "383"]}
+{"second": 1.6666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1471", "426", "194", "419"]}
+{"second": 1.6666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1055", "175", "165", "349"]}
+{"second": 1.7, "type": "object", "id": "person_josep francis", "coordinates": ["318", "314", "317", "520"]}
+{"second": 1.7, "type": "object", "id": "person_phoebe buffay", "coordinates": ["705", "403", "232", "336"]}
+{"second": 1.7, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1173", "442", "290", "383"]}
+{"second": 1.7, "type": "object", "id": "person_monica e. geller", "coordinates": ["1477", "429", "194", "419"]}
+{"second": 1.7, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1053", "180", "165", "349"]}
+{"second": 1.7333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["311", "318", "317", "520"]}
+{"second": 1.7333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["705", "398", "232", "336"]}
+{"second": 1.7333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1174", "410", "290", "415"]}
+{"second": 1.7333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1479", "416", "194", "434"]}
+{"second": 1.7333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1019", "183", "165", "349"]}
+{"second": 1.7666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["316", "316", "317", "520"]}
+{"second": 1.7666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["705", "396", "232", "336"]}
+{"second": 1.7666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1185", "447", "290", "415"]}
+{"second": 1.7666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1481", "408", "194", "434"]}
+{"second": 1.7666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1019", "173", "193", "358"]}
+{"second": 1.8, "type": "object", "id": "person_josep francis", "coordinates": ["321", "315", "317", "520"]}
+{"second": 1.8, "type": "object", "id": "person_phoebe buffay", "coordinates": ["704", "398", "232", "336"]}
+{"second": 1.8, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1186", "446", "290", "415"]}
+{"second": 1.8, "type": "object", "id": "person_monica e. geller", "coordinates": ["1482", "410", "194", "434"]}
+{"second": 1.8, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1000", "183", "205", "346"]}
+{"second": 1.8333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["327", "313", "317", "520"]}
+{"second": 1.8333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["708", "407", "244", "352"]}
+{"second": 1.8333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1187", "447", "290", "415"]}
+{"second": 1.8333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1484", "414", "194", "434"]}
+{"second": 1.8333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["995", "207", "206", "331"]}
+{"second": 1.8666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["330", "280", "319", "549"]}
+{"second": 1.8666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["705", "409", "244", "352"]}
+{"second": 1.8666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1197", "410", "280", "447"]}
+{"second": 1.8666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1485", "414", "194", "434"]}
+{"second": 1.8666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["982", "174", "214", "375"]}
+{"second": 1.9, "type": "object", "id": "person_josep francis", "coordinates": ["327", "278", "319", "549"]}
+{"second": 1.9, "type": "object", "id": "person_phoebe buffay", "coordinates": ["704", "409", "244", "352"]}
+{"second": 1.9, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1208", "395", "272", "480"]}
+{"second": 1.9, "type": "object", "id": "person_monica e. geller", "coordinates": ["1485", "412", "194", "434"]}
+{"second": 1.9, "type": "object", "id": "person_rachel karen greene", "coordinates": ["984", "191", "214", "375"]}
+{"second": 1.9333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["331", "275", "319", "549"]}
+{"second": 1.9333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["704", "408", "244", "352"]}
+{"second": 1.9333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1209", "409", "272", "480"]}
+{"second": 1.9333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1485", "414", "194", "434"]}
+{"second": 1.9333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["961", "183", "231", "358"]}
+{"second": 1.9666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["335", "270", "319", "549"]}
+{"second": 1.9666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["703", "409", "244", "352"]}
+{"second": 1.9666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1209", "406", "272", "480"]}
+{"second": 1.9666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1486", "412", "194", "434"]}
+{"second": 1.9666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["946", "161", "264", "367"]}
+{"second": 2.0, "type": "object", "id": "person_josep francis", "coordinates": ["337", "270", "319", "549"]}
+{"second": 2.0, "type": "object", "id": "person_phoebe buffay", "coordinates": ["703", "410", "244", "352"]}
+{"second": 2.0, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1212", "407", "272", "480"]}
+{"second": 2.0, "type": "object", "id": "person_monica e. geller", "coordinates": ["1486", "413", "194", "434"]}
+{"second": 2.0, "type": "object", "id": "person_rachel karen greene", "coordinates": ["954", "179", "226", "347"]}
+{"second": 2.033333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["337", "269", "319", "549"]}
+{"second": 2.033333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["702", "412", "244", "352"]}
+{"second": 2.033333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1214", "405", "272", "480"]}
+{"second": 2.033333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1488", "414", "194", "434"]}
+{"second": 2.033333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["938", "143", "246", "385"]}
+{"second": 2.066666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["338", "265", "319", "549"]}
+{"second": 2.066666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["702", "412", "244", "352"]}
+{"second": 2.066666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1216", "405", "272", "480"]}
+{"second": 2.066666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1490", "415", "194", "434"]}
+{"second": 2.066666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["929", "151", "235", "385"]}
+{"second": 2.1, "type": "object", "id": "person_josep francis", "coordinates": ["338", "261", "319", "549"]}
+{"second": 2.1, "type": "object", "id": "person_phoebe buffay", "coordinates": ["701", "411", "244", "352"]}
+{"second": 2.1, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1216", "405", "272", "480"]}
+{"second": 2.1, "type": "object", "id": "person_monica e. geller", "coordinates": ["1492", "415", "194", "434"]}
+{"second": 2.1, "type": "object", "id": "person_rachel karen greene", "coordinates": ["914", "160", "231", "385"]}
+{"second": 2.1333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["337", "254", "319", "549"]}
+{"second": 2.1333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["701", "411", "244", "352"]}
+{"second": 2.1333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1217", "407", "272", "480"]}
+{"second": 2.1333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1492", "416", "194", "434"]}
+{"second": 2.1333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["897", "134", "252", "420"]}
+{"second": 2.1666666666666665, "type": "object", "id": "person_josep francis", "coordinates": ["372", "247", "319", "549"]}
+{"second": 2.1666666666666665, "type": "object", "id": "person_phoebe buffay", "coordinates": ["701", "412", "244", "352"]}
+{"second": 2.1666666666666665, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1219", "407", "272", "480"]}
+{"second": 2.1666666666666665, "type": "object", "id": "person_monica e. geller", "coordinates": ["1494", "414", "194", "434"]}
+{"second": 2.1666666666666665, "type": "object", "id": "person_rachel karen greene", "coordinates": ["888", "142", "252", "420"]}
+{"second": 2.2, "type": "object", "id": "person_josep francis", "coordinates": ["369", "252", "319", "549"]}
+{"second": 2.2, "type": "object", "id": "person_phoebe buffay", "coordinates": ["700", "413", "244", "352"]}
+{"second": 2.2, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1219", "410", "272", "480"]}
+{"second": 2.2, "type": "object", "id": "person_monica e. geller", "coordinates": ["1495", "414", "194", "434"]}
+{"second": 2.2, "type": "object", "id": "person_rachel karen greene", "coordinates": ["875", "139", "252", "420"]}
+{"second": 2.2333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["360", "255", "319", "549"]}
+{"second": 2.2333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["699", "412", "244", "352"]}
+{"second": 2.2333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1220", "410", "272", "480"]}
+{"second": 2.2333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1496", "414", "194", "434"]}
+{"second": 2.2333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["867", "138", "252", "420"]}
+{"second": 2.2666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["339", "268", "319", "549"]}
+{"second": 2.2666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["697", "413", "244", "352"]}
+{"second": 2.2666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1222", "414", "272", "480"]}
+{"second": 2.2666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1496", "415", "194", "434"]}
+{"second": 2.2666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["877", "159", "255", "373"]}
+{"second": 2.3, "type": "object", "id": "person_josep francis", "coordinates": ["330", "270", "319", "549"]}
+{"second": 2.3, "type": "object", "id": "person_phoebe buffay", "coordinates": ["694", "412", "244", "352"]}
+{"second": 2.3, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1221", "415", "272", "480"]}
+{"second": 2.3, "type": "object", "id": "person_monica e. geller", "coordinates": ["1497", "415", "194", "434"]}
+{"second": 2.3, "type": "object", "id": "person_rachel karen greene", "coordinates": ["862", "163", "228", "367"]}
+{"second": 2.3333333333333335, "type": "object", "id": "person_josep francis", "coordinates": ["322", "276", "319", "549"]}
+{"second": 2.3333333333333335, "type": "object", "id": "person_phoebe buffay", "coordinates": ["694", "412", "244", "352"]}
+{"second": 2.3333333333333335, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1223", "413", "272", "480"]}
+{"second": 2.3333333333333335, "type": "object", "id": "person_monica e. geller", "coordinates": ["1497", "414", "194", "434"]}
+{"second": 2.3333333333333335, "type": "object", "id": "person_rachel karen greene", "coordinates": ["852", "161", "228", "367"]}
+{"second": 2.3666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["314", "284", "319", "549"]}
+{"second": 2.3666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["693", "414", "244", "352"]}
+{"second": 2.3666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1223", "414", "272", "480"]}
+{"second": 2.3666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1497", "413", "194", "434"]}
+{"second": 2.3666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["857", "175", "228", "367"]}
+{"second": 2.4, "type": "object", "id": "person_josep francis", "coordinates": ["308", "289", "319", "549"]}
+{"second": 2.4, "type": "object", "id": "person_phoebe buffay", "coordinates": ["693", "412", "244", "352"]}
+{"second": 2.4, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1224", "413", "272", "480"]}
+{"second": 2.4, "type": "object", "id": "person_monica e. geller", "coordinates": ["1496", "411", "194", "434"]}
+{"second": 2.4, "type": "object", "id": "person_rachel karen greene", "coordinates": ["836", "163", "228", "367"]}
+{"second": 2.433333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["301", "294", "319", "549"]}
+{"second": 2.433333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["695", "412", "244", "352"]}
+{"second": 2.433333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1223", "414", "272", "480"]}
+{"second": 2.433333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1496", "410", "194", "434"]}
+{"second": 2.433333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["813", "161", "228", "367"]}
+{"second": 2.466666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["296", "302", "319", "549"]}
+{"second": 2.466666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["695", "411", "244", "352"]}
+{"second": 2.466666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "413", "272", "480"]}
+{"second": 2.466666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1497", "412", "194", "434"]}
+{"second": 2.466666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["804", "158", "228", "367"]}
+{"second": 2.5, "type": "object", "id": "person_josep francis", "coordinates": ["290", "301", "319", "549"]}
+{"second": 2.5, "type": "object", "id": "person_phoebe buffay", "coordinates": ["695", "410", "244", "352"]}
+{"second": 2.5, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "413", "272", "480"]}
+{"second": 2.5, "type": "object", "id": "person_monica e. geller", "coordinates": ["1497", "412", "194", "434"]}
+{"second": 2.5, "type": "object", "id": "person_rachel karen greene", "coordinates": ["789", "160", "228", "367"]}
+{"second": 2.533333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["287", "281", "319", "549"]}
+{"second": 2.533333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["694", "411", "244", "352"]}
+{"second": 2.533333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "413", "272", "480"]}
+{"second": 2.533333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1497", "410", "194", "434"]}
+{"second": 2.533333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["794", "175", "228", "367"]}
+{"second": 2.566666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["269", "297", "319", "549"]}
+{"second": 2.566666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["692", "411", "244", "352"]}
+{"second": 2.566666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "413", "272", "480"]}
+{"second": 2.566666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1498", "407", "194", "434"]}
+{"second": 2.566666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["761", "141", "266", "384"]}
+{"second": 2.6, "type": "object", "id": "person_josep francis", "coordinates": ["261", "296", "319", "549"]}
+{"second": 2.6, "type": "object", "id": "person_phoebe buffay", "coordinates": ["690", "413", "244", "352"]}
+{"second": 2.6, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "412", "272", "480"]}
+{"second": 2.6, "type": "object", "id": "person_monica e. geller", "coordinates": ["1498", "406", "194", "434"]}
+{"second": 2.6, "type": "object", "id": "person_rachel karen greene", "coordinates": ["749", "148", "266", "384"]}
+{"second": 2.6333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["257", "297", "319", "549"]}
+{"second": 2.6333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["691", "415", "244", "352"]}
+{"second": 2.6333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "413", "272", "480"]}
+{"second": 2.6333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1500", "406", "194", "434"]}
+{"second": 2.6333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["730", "155", "266", "384"]}
+{"second": 2.6666666666666665, "type": "object", "id": "person_josep francis", "coordinates": ["255", "299", "319", "549"]}
+{"second": 2.6666666666666665, "type": "object", "id": "person_phoebe buffay", "coordinates": ["691", "416", "244", "352"]}
+{"second": 2.6666666666666665, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "413", "272", "480"]}
+{"second": 2.6666666666666665, "type": "object", "id": "person_monica e. geller", "coordinates": ["1500", "409", "194", "434"]}
+{"second": 2.6666666666666665, "type": "object", "id": "person_rachel karen greene", "coordinates": ["698", "132", "298", "391"]}
+{"second": 2.7, "type": "object", "id": "person_josep francis", "coordinates": ["251", "301", "319", "549"]}
+{"second": 2.7, "type": "object", "id": "person_phoebe buffay", "coordinates": ["692", "420", "244", "352"]}
+{"second": 2.7, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1227", "413", "272", "480"]}
+{"second": 2.7, "type": "object", "id": "person_monica e. geller", "coordinates": ["1501", "409", "194", "434"]}
+{"second": 2.7, "type": "object", "id": "person_rachel karen greene", "coordinates": ["710", "150", "266", "391"]}
+{"second": 2.7333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["248", "301", "319", "549"]}
+{"second": 2.7333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["690", "422", "244", "352"]}
+{"second": 2.7333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1227", "414", "272", "480"]}
+{"second": 2.7333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1502", "407", "194", "434"]}
+{"second": 2.7333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["679", "143", "258", "376"]}
+{"second": 2.7666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["240", "314", "319", "549"]}
+{"second": 2.7666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["686", "421", "244", "352"]}
+{"second": 2.7666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1227", "420", "272", "480"]}
+{"second": 2.7666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1504", "404", "194", "434"]}
+{"second": 2.7666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["660", "134", "258", "376"]}
+{"second": 2.8, "type": "object", "id": "person_josep francis", "coordinates": ["238", "313", "319", "549"]}
+{"second": 2.8, "type": "object", "id": "person_phoebe buffay", "coordinates": ["681", "422", "244", "352"]}
+{"second": 2.8, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1227", "420", "272", "480"]}
+{"second": 2.8, "type": "object", "id": "person_monica e. geller", "coordinates": ["1504", "404", "194", "434"]}
+{"second": 2.8, "type": "object", "id": "person_rachel karen greene", "coordinates": ["623", "130", "259", "391"]}
+{"second": 2.8333333333333335, "type": "object", "id": "person_josep francis", "coordinates": ["234", "280", "322", "582"]}
+{"second": 2.8333333333333335, "type": "object", "id": "person_phoebe buffay", "coordinates": ["679", "422", "244", "352"]}
+{"second": 2.8333333333333335, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1227", "419", "272", "480"]}
+{"second": 2.8333333333333335, "type": "object", "id": "person_monica e. geller", "coordinates": ["1504", "404", "194", "434"]}
+{"second": 2.8333333333333335, "type": "object", "id": "person_rachel karen greene", "coordinates": ["611", "131", "259", "391"]}
+{"second": 2.8666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["229", "283", "322", "582"]}
+{"second": 2.8666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["676", "421", "244", "352"]}
+{"second": 2.8666666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "418", "272", "480"]}
+{"second": 2.8666666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1506", "405", "194", "434"]}
+{"second": 2.8666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["606", "137", "259", "391"]}
+{"second": 2.9, "type": "object", "id": "person_josep francis", "coordinates": ["227", "284", "322", "582"]}
+{"second": 2.9, "type": "object", "id": "person_phoebe buffay", "coordinates": ["678", "423", "244", "352"]}
+{"second": 2.9, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "418", "272", "480"]}
+{"second": 2.9, "type": "object", "id": "person_monica e. geller", "coordinates": ["1505", "405", "194", "434"]}
+{"second": 2.9, "type": "object", "id": "person_rachel karen greene", "coordinates": ["577", "130", "259", "391"]}
+{"second": 2.933333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["225", "281", "322", "582"]}
+{"second": 2.933333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["679", "423", "244", "352"]}
+{"second": 2.933333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "420", "272", "480"]}
+{"second": 2.933333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1506", "404", "194", "434"]}
+{"second": 2.933333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["585", "136", "259", "391"]}
+{"second": 2.966666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["223", "280", "322", "582"]}
+{"second": 2.966666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["677", "422", "244", "352"]}
+{"second": 2.966666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "419", "272", "480"]}
+{"second": 2.966666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1505", "403", "194", "434"]}
+{"second": 2.966666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["567", "138", "266", "404"]}
+{"second": 3.0, "type": "object", "id": "person_josep francis", "coordinates": ["231", "278", "322", "582"]}
+{"second": 3.0, "type": "object", "id": "person_phoebe buffay", "coordinates": ["678", "421", "244", "352"]}
+{"second": 3.0, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "419", "272", "480"]}
+{"second": 3.0, "type": "object", "id": "person_monica e. geller", "coordinates": ["1506", "403", "194", "434"]}
+{"second": 3.0, "type": "object", "id": "person_rachel karen greene", "coordinates": ["531", "139", "266", "404"]}
+{"second": 3.033333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["232", "275", "322", "582"]}
+{"second": 3.033333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["678", "421", "244", "352"]}
+{"second": 3.033333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "419", "272", "480"]}
+{"second": 3.033333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1507", "405", "194", "434"]}
+{"second": 3.033333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["498", "132", "266", "404"]}
+{"second": 3.066666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["231", "274", "322", "582"]}
+{"second": 3.066666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["679", "422", "244", "352"]}
+{"second": 3.066666666666667, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "419", "272", "480"]}
+{"second": 3.066666666666667, "type": "object", "id": "person_monica e. geller", "coordinates": ["1507", "405", "194", "434"]}
+{"second": 3.066666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["483", "134", "266", "404"]}
+{"second": 3.1, "type": "object", "id": "person_josep francis", "coordinates": ["227", "271", "322", "582"]}
+{"second": 3.1, "type": "object", "id": "person_phoebe buffay", "coordinates": ["679", "422", "244", "352"]}
+{"second": 3.1, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "419", "272", "480"]}
+{"second": 3.1, "type": "object", "id": "person_monica e. geller", "coordinates": ["1507", "406", "194", "434"]}
+{"second": 3.1, "type": "object", "id": "person_rachel karen greene", "coordinates": ["489", "126", "266", "404"]}
+{"second": 3.1333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["223", "269", "322", "582"]}
+{"second": 3.1333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["680", "422", "244", "352"]}
+{"second": 3.1333333333333333, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1226", "420", "272", "480"]}
+{"second": 3.1333333333333333, "type": "object", "id": "person_monica e. geller", "coordinates": ["1506", "409", "194", "434"]}
+{"second": 3.1333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["467", "137", "266", "404"]}
+{"second": 3.1666666666666665, "type": "object", "id": "person_josep francis", "coordinates": ["223", "269", "322", "582"]}
+{"second": 3.1666666666666665, "type": "object", "id": "person_phoebe buffay", "coordinates": ["680", "422", "244", "352"]}
+{"second": 3.1666666666666665, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1227", "422", "272", "480"]}
+{"second": 3.1666666666666665, "type": "object", "id": "person_monica e. geller", "coordinates": ["1507", "410", "194", "434"]}
+{"second": 3.1666666666666665, "type": "object", "id": "person_rachel karen greene", "coordinates": ["449", "131", "266", "404"]}
+{"second": 3.2, "type": "object", "id": "person_josep francis", "coordinates": ["223", "269", "322", "582"]}
+{"second": 3.2, "type": "object", "id": "person_phoebe buffay", "coordinates": ["681", "422", "244", "352"]}
+{"second": 3.2, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "422", "272", "480"]}
+{"second": 3.2, "type": "object", "id": "person_monica e. geller", "coordinates": ["1508", "410", "194", "434"]}
+{"second": 3.2, "type": "object", "id": "person_rachel karen greene", "coordinates": ["441", "134", "266", "404"]}
+{"second": 3.2333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["223", "270", "322", "582"]}
+{"second": 3.2333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["684", "422", "244", "352"]}
+{"second": 3.2333333333333334, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "421", "272", "480"]}
+{"second": 3.2333333333333334, "type": "object", "id": "person_monica e. geller", "coordinates": ["1508", "411", "194", "434"]}
+{"second": 3.2333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["430", "136", "251", "388"]}
+{"second": 3.2666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["224", "269", "322", "582"]}
+{"second": 3.2666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["689", "423", "244", "352"]}
+{"second": 3.2666666666666666, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "423", "272", "480"]}
+{"second": 3.2666666666666666, "type": "object", "id": "person_monica e. geller", "coordinates": ["1509", "411", "194", "434"]}
+{"second": 3.2666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["389", "137", "251", "388"]}
+{"second": 3.3, "type": "object", "id": "person_josep francis", "coordinates": ["226", "269", "322", "582"]}
+{"second": 3.3, "type": "object", "id": "person_phoebe buffay", "coordinates": ["693", "408", "268", "390"]}
+{"second": 3.3, "type": "object", "id": "person_chandler m. bing", "coordinates": ["1225", "421", "272", "480"]}
+{"second": 3.3, "type": "object", "id": "person_monica e. geller", "coordinates": ["1508", "411", "194", "434"]}
+{"second": 3.3, "type": "object", "id": "person_rachel karen greene", "coordinates": ["378", "133", "251", "388"]}
+{"second": 3.3333333333333335, "type": "object", "id": "person_josep francis", "coordinates": ["191", "309", "494", "766"]}
+{"second": 3.3333333333333335, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1056", "84", "373", "557"]}
+{"second": 3.3333333333333335, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1202", "473", "388", "593"]}
+{"second": 3.3666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["193", "314", "494", "766"]}
+{"second": 3.3666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1049", "110", "373", "557"]}
+{"second": 3.3666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1211", "486", "388", "593"]}
+{"second": 3.4, "type": "object", "id": "person_josep francis", "coordinates": ["201", "313", "494", "766"]}
+{"second": 3.4, "type": "object", "id": "person_rachel karen greene", "coordinates": ["1033", "111", "359", "584"]}
+{"second": 3.4, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1215", "487", "388", "593"]}
+{"second": 3.433333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["208", "314", "494", "766"]}
+{"second": 3.433333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["994", "111", "375", "604"]}
+{"second": 3.433333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1221", "486", "388", "593"]}
+{"second": 3.466666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["214", "314", "494", "766"]}
+{"second": 3.466666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["975", "100", "375", "629"]}
+{"second": 3.466666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1223", "487", "388", "593"]}
+{"second": 3.5, "type": "object", "id": "person_josep francis", "coordinates": ["221", "314", "494", "766"]}
+{"second": 3.5, "type": "object", "id": "person_rachel karen greene", "coordinates": ["964", "117", "343", "653"]}
+{"second": 3.5, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1228", "486", "388", "593"]}
+{"second": 3.533333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["228", "313", "494", "766"]}
+{"second": 3.533333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["947", "110", "343", "673"]}
+{"second": 3.533333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1233", "486", "388", "593"]}
+{"second": 3.566666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["235", "313", "494", "766"]}
+{"second": 3.566666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["950", "119", "316", "703"]}
+{"second": 3.566666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1240", "486", "388", "593"]}
+{"second": 3.6, "type": "object", "id": "person_josep francis", "coordinates": ["243", "313", "494", "766"]}
+{"second": 3.6, "type": "object", "id": "person_rachel karen greene", "coordinates": ["878", "92", "373", "735"]}
+{"second": 3.6, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1247", "487", "388", "593"]}
+{"second": 3.6333333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["253", "314", "494", "766"]}
+{"second": 3.6333333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["864", "103", "373", "735"]}
+{"second": 3.6333333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1251", "487", "388", "593"]}
+{"second": 3.6666666666666665, "type": "object", "id": "person_josep francis", "coordinates": ["259", "313", "494", "766"]}
+{"second": 3.6666666666666665, "type": "object", "id": "person_rachel karen greene", "coordinates": ["862", "98", "373", "735"]}
+{"second": 3.6666666666666665, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1247", "456", "407", "623"]}
+{"second": 3.7, "type": "object", "id": "person_josep francis", "coordinates": ["264", "313", "494", "766"]}
+{"second": 3.7, "type": "object", "id": "person_rachel karen greene", "coordinates": ["833", "103", "388", "738"]}
+{"second": 3.7, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1254", "456", "407", "623"]}
+{"second": 3.7333333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["265", "313", "494", "766"]}
+{"second": 3.7333333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["798", "97", "396", "747"]}
+{"second": 3.7333333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1261", "456", "407", "623"]}
+{"second": 3.7666666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["266", "314", "494", "766"]}
+{"second": 3.7666666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["810", "111", "396", "747"]}
+{"second": 3.7666666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1263", "457", "407", "623"]}
+{"second": 3.8, "type": "object", "id": "person_josep francis", "coordinates": ["266", "313", "494", "766"]}
+{"second": 3.8, "type": "object", "id": "person_rachel karen greene", "coordinates": ["787", "83", "380", "747"]}
+{"second": 3.8, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1265", "456", "407", "623"]}
+{"second": 3.8333333333333335, "type": "object", "id": "person_josep francis", "coordinates": ["264", "314", "494", "766"]}
+{"second": 3.8333333333333335, "type": "object", "id": "person_rachel karen greene", "coordinates": ["771", "88", "380", "747"]}
+{"second": 3.8333333333333335, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1266", "456", "407", "623"]}
+{"second": 3.8666666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["264", "313", "494", "766"]}
+{"second": 3.8666666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["759", "91", "372", "747"]}
+{"second": 3.8666666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1267", "457", "407", "623"]}
+{"second": 3.9, "type": "object", "id": "person_josep francis", "coordinates": ["265", "314", "494", "766"]}
+{"second": 3.9, "type": "object", "id": "person_rachel karen greene", "coordinates": ["745", "88", "372", "747"]}
+{"second": 3.9, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1270", "457", "407", "623"]}
+{"second": 3.933333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["268", "314", "494", "766"]}
+{"second": 3.933333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["721", "76", "395", "762"]}
+{"second": 3.933333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1273", "457", "407", "623"]}
+{"second": 3.966666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["269", "313", "494", "766"]}
+{"second": 3.966666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["701", "101", "395", "762"]}
+{"second": 3.966666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1275", "456", "407", "623"]}
+{"second": 4.0, "type": "object", "id": "person_josep francis", "coordinates": ["266", "314", "494", "766"]}
+{"second": 4.0, "type": "object", "id": "person_rachel karen greene", "coordinates": ["691", "77", "395", "762"]}
+{"second": 4.0, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1275", "457", "407", "623"]}
+{"second": 4.033333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["265", "314", "494", "766"]}
+{"second": 4.033333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["671", "87", "394", "735"]}
+{"second": 4.033333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1275", "456", "407", "623"]}
+{"second": 4.066666666666666, "type": "object", "id": "person_josep francis", "coordinates": ["264", "313", "494", "766"]}
+{"second": 4.066666666666666, "type": "object", "id": "person_rachel karen greene", "coordinates": ["668", "90", "394", "772"]}
+{"second": 4.066666666666666, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1275", "457", "407", "623"]}
+{"second": 4.1, "type": "object", "id": "person_josep francis", "coordinates": ["263", "313", "494", "766"]}
+{"second": 4.1, "type": "object", "id": "person_rachel karen greene", "coordinates": ["657", "83", "394", "772"]}
+{"second": 4.1, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1276", "457", "407", "623"]}
+{"second": 4.133333333333334, "type": "object", "id": "person_josep francis", "coordinates": ["265", "310", "494", "766"]}
+{"second": 4.133333333333334, "type": "object", "id": "person_rachel karen greene", "coordinates": ["645", "82", "348", "772"]}
+{"second": 4.133333333333334, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1276", "457", "407", "623"]}
+{"second": 4.166666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["266", "307", "494", "766"]}
+{"second": 4.166666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["640", "74", "348", "772"]}
+{"second": 4.166666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1277", "457", "407", "623"]}
+{"second": 4.2, "type": "object", "id": "person_josep francis", "coordinates": ["267", "302", "494", "766"]}
+{"second": 4.2, "type": "object", "id": "person_rachel karen greene", "coordinates": ["623", "84", "348", "772"]}
+{"second": 4.2, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1277", "457", "407", "623"]}
+{"second": 4.233333333333333, "type": "object", "id": "person_josep francis", "coordinates": ["266", "298", "494", "766"]}
+{"second": 4.233333333333333, "type": "object", "id": "person_rachel karen greene", "coordinates": ["631", "75", "371", "791"]}
+{"second": 4.233333333333333, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1279", "457", "407", "623"]}
+{"second": 4.266666666666667, "type": "object", "id": "person_josep francis", "coordinates": ["268", "295", "494", "766"]}
+{"second": 4.266666666666667, "type": "object", "id": "person_rachel karen greene", "coordinates": ["628", "79", "371", "791"]}
+{"second": 4.266666666666667, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1280", "457", "407", "623"]}
+{"second": 4.3, "type": "object", "id": "person_josep francis", "coordinates": ["270", "290", "494", "766"]}
+{"second": 4.3, "type": "object", "id": "person_rachel karen greene", "coordinates": ["626", "87", "371", "791"]}
+{"second": 4.3, "type": "object", "id": "person_phoebe buffay", "coordinates": ["1280", "456", "407", "623"]}
